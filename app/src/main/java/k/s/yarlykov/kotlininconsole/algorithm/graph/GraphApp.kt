@@ -82,7 +82,7 @@ class GraphApp {
         queue.push(0)
 
         while(!queue.isEmpty()) {
-            var e = queue.pop()
+            val e = queue.pop()
             displayVertex(e)
 
             while(true) {

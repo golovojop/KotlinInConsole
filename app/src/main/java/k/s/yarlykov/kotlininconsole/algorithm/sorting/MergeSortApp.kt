@@ -1,4 +1,4 @@
-package k.s.yarlykov.kotlininconsole.algorithm
+package k.s.yarlykov.kotlininconsole.algorithm.sorting
 
 class MergeSortApp {
     val data = intArrayOf(101, 11, 79, 7, 78, 23, 21, 44, 47, 35, 54)
